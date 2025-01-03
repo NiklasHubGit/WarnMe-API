@@ -30,3 +30,21 @@ dus1
         "IN2_Level": "Hi",
         "Supply_Voltage": "3.18"
       },
+
+      "decoded_payload": {
+        "DUS1_Cyclic": "0x01 1 Min",
+        "DUS1_Delta": "0xffff 65535 mm",
+        "DUS1_Filtertime_Delta": "0x14 20 s",
+        "DUS1_Filtertime_Thr1": "0x14 20 s",
+        "DUS1_Filtertime_Thr2": "0x14 20 s",
+        "DUS1_Messfilter": "0x00",
+        "DUS1_Messinterval": "0x81 1 Min",
+        "DUS1_Messtrigger": "0x00",
+        "DUS1_Ref_Level_0": "0x1770 6000",
+        "DUS1_Ref_Level_1": "0x00fa 250",
+        "DUS1_Statusmode": "0x80",
+        "DUS1_Threshold_1": "0x0000 0 mm",
+        "DUS1_Threshold_2": "0x0000 0 mm",
+        "Frame_Type": "Config-Info",
+        "Supply_Voltage": "3.18"
+      },
