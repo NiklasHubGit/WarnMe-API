@@ -1,4 +1,6 @@
-      "decoded_payload": {
+
+board
+"decoded_payload": {
         "Device_Bitfield": "0x05",
         "Device_Cyclic": "0x01 1 Min",
         "Device_Statusmode": "0x80",
@@ -9,5 +11,22 @@
         "IN2_Scan_Interval": "0x00 0 s",
         "Rejoin_Time": "0x0000 Off",
         "SF": "0x00 ADR",
+        "Supply_Voltage": "3.18"
+      },
+dus1
+      "decoded_payload": {
+        "Device_Event_Boot": "N",
+        "Device_Event_Button": "Y",
+        "Device_Event_Cyclic": "N",
+        "Device_Event_Heartbeat": "N",
+        "Device_Event_IN1": "N",
+        "Device_Event_IN2": "N",
+        "Device_Eventflags": 8,
+        "Device_InputStates": 17,
+        "Frame_Type": "Status-Info",
+        "IN1_Change": "N",
+        "IN1_Level": "Hi",
+        "IN2_Change": "N",
+        "IN2_Level": "Hi",
         "Supply_Voltage": "3.18"
       },
