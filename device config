@@ -1,0 +1,13 @@
+      "decoded_payload": {
+        "Device_Bitfield": "0x05",
+        "Device_Cyclic": "0x01 1 Min",
+        "Device_Statusmode": "0x80",
+        "Frame_Type": "Config-Info",
+        "IN1_Filtertime": "0x05 5 s",
+        "IN1_Scan_Interval": "0x00 0 s",
+        "IN2_Filtertime": "0x05 5 s",
+        "IN2_Scan_Interval": "0x00 0 s",
+        "Rejoin_Time": "0x0000 Off",
+        "SF": "0x00 ADR",
+        "Supply_Voltage": "3.18"
+      },
