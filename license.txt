@@ -1,0 +1,9 @@
+GNU Affero General Public License (AGPL) v3.0 with NonCommercial Clause
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+Commercial use of this Software is prohibited without prior written permission from the copyright holder. Any commercial use of the Software, including its use in a service or product for profit, requires prior consultation and explicit consent from the copyright holder.
