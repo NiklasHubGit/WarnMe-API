@@ -1,3 +1,10 @@
+# Secrets
 secrets.py
 hochwasserwarnapp-4b01ebd06065.json
 warnMeApi/express-api/sensor_data.db
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
