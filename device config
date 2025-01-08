@@ -1,3 +1,15 @@
+1.device cycel auf 30 min stellen 3e, weil dus cycel schickt auch selber (ist der standard wert, falls geändert wurde 00 00 00 3E)
+2.cycel tx von dus 1 auf 10min stellen
+00 01 00 0A
+(vlt kann man beide auch linken mit status mode)
+
+3.measurment interval von DUS1 (in sekunden) einstellen auf 1 min 
+00 01 03 0A
+
+
+
+
+
 
 board
 "decoded_payload": {
@@ -120,9 +132,3 @@ funktioniert nicht industrie 5:
         "Supply_Voltage": "3.14"
       },
 
-1.device cycel auf 30 min stellen 3e, weil dus cycel schickt auch selber
-2.cycel tx von dus 1 auf 10min stellen
-
-(vlt kann man beide auch linken mit status mode)
-
-3.measurment interval von DUS1 (in sekunden) einstellen auf 1 min 
