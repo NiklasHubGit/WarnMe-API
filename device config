@@ -87,3 +87,42 @@ dus1:
         "Supply_Voltage": "3.15"
       },
 
+funktioniert nicht industrie 5:
+
+      "decoded_payload": {
+        "DUS1_Cyclic": "0x01 1 Min",
+        "DUS1_Delta": "0xffff 65535 mm",
+        "DUS1_Filtertime_Delta": "0x14 20 s",
+        "DUS1_Filtertime_Thr1": "0x14 20 s",
+        "DUS1_Filtertime_Thr2": "0x14 20 s",
+        "DUS1_Messfilter": "0x00",
+        "DUS1_Messinterval": "0x01 1 s",
+        "DUS1_Messtrigger": "0x00",
+        "DUS1_Ref_Level_0": "0x1770 6000",
+        "DUS1_Ref_Level_1": "0x00fa 250",
+        "DUS1_Statusmode": "0x80",
+        "DUS1_Threshold_1": "0x0000 0 mm",
+        "DUS1_Threashold_2": "0x0000 0 mm",
+        "Frame_Type": "Config-Info",
+        "Supply_Voltage": "3.14"
+      },
+      "decoded_payload": {
+        "Device_Bitfield": "0x05",
+        "Device_Cyclic": "0x01 1 Min",
+        "Device_Statusmode": "0x80",
+        "Frame_Type": "Config-Info",
+        "IN1_Filtertime": "0x05 5 s",
+        "IN1_Scan_Interval": "0x00 0 s",
+        "IN2_Filtertime": "0x05 5 s",
+        "IN2_Scan_Interval": "0x00 0 s",
+        "Rejoin_Time": "0x0000 Off",
+        "SF": "0x00 ADR",
+        "Supply_Voltage": "3.14"
+      },
+
+1.device cycel auf 30 min stellen 3e, weil dus cycel schickt auch selber
+2.cycel tx von dus 1 auf 10min stellen
+
+(vlt kann man beide auch linken mit status mode)
+
+3.measurment interval von DUS1 (in sekunden) einstellen auf 1 min 
